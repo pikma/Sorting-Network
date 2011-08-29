@@ -1,0 +1,4 @@
+The goal of this project is to find the shortest sorting networks for various
+sizes of arrays. The size is measured as the number of permutations.
+
+Don't know what a sorting network is? Check out http://en.wikipedia.org/wiki/Sorting_network !
